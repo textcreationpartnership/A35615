@@ -1,0 +1,387 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Case of James Percy, the true heir-male and claimant to the Earldom of Northumberland to the honourable knights, citizens, and burgesses, and to the Committee of Grievances in Parliament assembled : the humble petition of James Percy, cozen and next heir-male to Joscelin Percy, the late and eleventh Earl of Northumberland, deceased.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 46 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35615</idno>
+            <idno type="STC">Wing C924</idno>
+            <idno type="STC">ESTC R19657</idno>
+            <idno type="EEBO-CITATION">11761973</idno>
+            <idno type="OCLC">ocm 11761973</idno>
+            <idno type="VID">48715</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35615)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48715)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 19:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Case of James Percy, the true heir-male and claimant to the Earldom of Northumberland to the honourable knights, citizens, and burgesses, and to the Committee of Grievances in Parliament assembled : the humble petition of James Percy, cozen and next heir-male to Joscelin Percy, the late and eleventh Earl of Northumberland, deceased.</title>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Percy, James, 1619-1690?</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="case">
+            <pb facs="tcp:48715:1"/>
+            <pb n="1" facs="tcp:48715:1" rendition="simple:additions"/>
+            <head>THE CASE OF JAMES PERCY, The true Heir-Male and Claimant to the <hi>Earldom of Northumberland,</hi>
+            </head>
+            <div type="petition">
+               <head>To the Honourable <hi>Knights, Citizens,</hi> and <hi>Bur<g ref="char:EOLhyphen"/>geſſes;</hi> And to the <hi>Committee</hi> of <hi>Grievances,</hi> in PARLIAMENT Aſſembled.</head>
+               <head type="sub">
+                  <hi>The Humble Petition of</hi> JAMES PERCY, <hi>Cozen and next Heir-Male to</hi> JOSCELIN PERCY, <hi>the late and Eleventh</hi> EARL <hi>of</hi> NORTHUMBERLAND, <hi>Deceaſed.</hi>
+               </head>
+               <opener>SHEWETH,</opener>
+               <p>THAT your Petitioner was the Son of <hi>Henry Percy,</hi> who was the Son of <hi>Henry Percy,</hi> who was the Son of Sir <hi>Ingleram Percy,</hi> who was the third Son of <hi>Henry Percy,</hi> Fifth Earl of <hi>Northumberland:</hi> By which Deſcent your Petitioner is Entitled to the <hi>Earldom of Northumber<g ref="char:EOLhyphen"/>land,</hi> and to ſeveral <hi>Baronies, Honours, Manors</hi> and <hi>Lands,</hi> which to the <hi>Earl<g ref="char:EOLhyphen"/>dom</hi> and <hi>Baronies</hi> have been and ſtill are annexed; your Petitioner having proved his Pedigree, queſtions not but by your Aſſiſtance to make appear they are, or ſhould be his Right, and Juſt Inheritance, as Cozen and Heir-Male to <hi>Joſcelin</hi> late Earl afore-mentioned: And therefore ought to fit in <hi>Parliament,</hi> and enjoy the Place, Seat and Preheminence of his Anceſtors, with the Dignities to him ſo deſcended, and do of Right belong: And there<g ref="char:EOLhyphen"/>fore prays his Bill may be be made an Act to ſettle the Title and Eſtate toge<g ref="char:EOLhyphen"/>ther again, that Property and Right may be had according to Juſtice.</p>
+               <p>That at his firſt coming to Claim, your Petitioner petitioned the Kings moſt Excellent Majeſty, who was graciouſly pleaſed to ſay, <hi>God forbid We ſhould hin<g ref="char:EOLhyphen"/>der an Heir, but that he ſhould have the benefit of the Law.</hi>
+               </p>
+               <p>That your Petitioner applyed himſelf to the Lords in Parliament, where he then could not prove his Great Grandfather, which forc'd his Councel to tell
+<pb n="2" facs="tcp:48715:2"/>their Lordſhips, That the Claimants Cauſe lay not before them, but ought to be Tryed at the Common Law firſt; and when the Cauſe had went through the Inferiour Courts to prove his Pedigree, and if the Law could not end it, then the Cauſe ought to come before their Lordſhips again, to Hear, Debate, and to Determine. And at that time his potent Adverſaries did publiſh in the <hi>Gazette,</hi> that your Petitioner was an Impoſtor; and at their Courts did de<g ref="char:EOLhyphen"/>clare to all the Tenants, that the Claimants name was not <hi>Percy,</hi> but that he was a <hi>Baſtard;</hi> and that <hi>Henry Percy</hi> whom he declared was his Father, they could prove was never Married: Yet they have made all the Waſte imaginable, cutting down Woods, pulling down Caſtles, over-working of Lead-Mines and Coal-Mines; and not only ſo, but it caſt the Petitioner out of Favour in the World, that His moſt Excellent Majeſty was pleaſed to give the Title one way, and the Land ſeveral ways; which hath not only multiplied Enemies, but by their Power, Policy and Priviledge, hath put off your Petitioner near Eleven Years.</p>
+               <p>Therefore your Petitioner renders this following Account, that his Juſt Cauſe may be known, what hard uſage he hath found at Law. That the firſt Tryal was in the year 1674. againſt Mr. <hi>John Clerke,</hi> the chief Agent, for ſcan<g ref="char:EOLhyphen"/>dalous words, who ſhelter'd under Priviledge a long time; and before the Tryal, they offer'd to Own him, and to aſſiſt the Claimant <hi>James Percy</hi> with their Books, Pedigree and Records, but would not be bound to perform: Then the Plaintiff perceived it to be a baffle for a longer delay, and there were no good Faith in them; then ſaid the Plaintiff, <hi>Currat Lex,</hi> I will have the Tryal if it be but to waſh the dirt off, which the <hi>Gazette</hi> and your evil practices have thrown upon me: And at the Tryal, the Attorney would ſuffer a Non-ſuit, without the conſent of his Client; at which the Lord Chief Juſtice <hi>Hales</hi> ſeemed not to be ſatisfied, but ſtood up and ſaid, That <hi>James Percy</hi> the Claimant and Plaintiff, had proved himſelf a true <hi>Percy,</hi> legitimate by Father and Mother, Grandfather and Grandmother, and of the Bloud and Family of the <hi>Percies</hi> of <hi>Northumberland;</hi> and did verily believe, that the Plaintiff was Cozen and next Heir-Male to <hi>Joſcelin</hi> the late and 11<hi rend="sup">th</hi> Earl of <hi>Northumber<g ref="char:EOLhyphen"/>land,</hi> only he was afraid he had taken his Deſcent a little too low: And the Jury at a Treat which Mr. <hi>Clerke</hi> the Defendant gave them, ſaid to Mr. <hi>Clerke,</hi> You are beholden to Mr. <hi>Percy</hi> for ſuffering a Non-ſuit, for truly we muſt have given a Verdict for the Plaintiff, his Cauſe was proved ſo clear: and the Damages was laid in the Declaration 10000 <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </p>
+               <p>The ſecond Tryal was upon an Ejectment for <hi>Cannington</hi> and <hi>Rodoway</hi> Lands in <hi>Somerſetſhire,</hi> which Lands of right fell to the Heirs-Males of the <hi>Percies,</hi> after the Heirs-Males of the <hi>Rogers</hi> was extinct: Doubtleſs it was by miſ-information his Majeſty was miſtaken in his Gifts: And at that Tryal the Pedigree was fully proved up to the Plaintiffs Great-Grandfather Sir <hi>Ingleram Percy,</hi> youngeſt Son of <hi>Henry Percy</hi> 5<hi rend="sup">th</hi>. Earl of <hi>Northumberland,</hi> by the Oath of Mr. <hi>Henry Champion,</hi> who was Steward to the Earls of <hi>Northumberland,</hi> and declared at that Tryal, that he found in the Books and Records of the <hi>Percies,</hi> that Sir <hi>Ingleram Percy</hi> was married, and had Sons and Daughters: ſo that a Verdict ought to have been had for the Plaintiffs Pedigree at that Tryal alſo. And Sir <hi>John Coppleſton</hi> did not only ſhelter under Priviledge, but when the Writs of Error were put into the Houſe of Lords, he then ſued the Plaintiff
+<pb n="3" facs="tcp:48715:2"/>in the Court of Kings-Bench, and got Coſt, and broke the Priviledge of Parliament.</p>
+               <p>The third Tryal was againſt one Mr. <hi>Wright,</hi> for the like ſcandalous words, where your Petitioner proved his Legitimacy again, and not the Tythe of his Witneſſes were examined; for the Lord Chief Juſtice <hi>Rainsford</hi> ſtood up and ſaid, Gentlemen of the Jury, we need not trouble the Court to examine more of the Plaintiffs Witneſſes, by reaſon his Pedigree was fully proved before, at a former Tryal at the Bar of this Court: And when the Jury brought in but 300 <abbr>
+                     <hi>l.</hi>
+                  </abbr> Damages, the Lord Chief Juſtice was angry, and told them they had undervalued the Plaintiffs Cauſe; (the Judgment exemplified under the Seal of the Court, makes appear the ſame.)</p>
+               <p>That the fourth Tryal againſt <hi>John Blakeston</hi> 
+                  <abbr>Eſq</abbr> who was likewiſe an Agent for the Lady <hi>Elizabeth Percy,</hi> and kept her Courts, and did declare the like ſcandalous words, and gave it in all his Charges to the Jury and Te<g ref="char:EOLhyphen"/>nants, to take ſpecial notice thereof: And at the Tryal on <hi>Monday</hi> the 11<hi rend="sup">th</hi> of <hi>November</hi> 1678. the words were proved. The Declaration was allowed, after ſome debate upon a nice word, which was amended: But the Councel for the Defendant ſtarted up an Attainder in the Caſe, which the Plaintiffs Councel was not prepared at that time to remove that Objection, but the Tryal was put by at that time, and the Jury was withdrawn, as the Plaintiffs printed Book declares more at large. But the ſecond part of that Tryal was upon the 6<hi rend="sup">th</hi> of <hi>February</hi> 1678. a new Jury upon the motion of the Defendants Councel did appear, and the Plaintiffs Councel did clear that point concern<g ref="char:EOLhyphen"/>ing the Attainder, by reaſon the Plaintiffs Councel made appear to the Court, that <hi>James Percy</hi> was deſcended from the Body of <hi>Henry Percy,</hi> 5<hi rend="sup">th.</hi> Earl of <hi>Northumberland,</hi> of Sir <hi>Ingleram Percy</hi> his youngeſt Son, and that the Colla<g ref="char:EOLhyphen"/>teral Line was never Attainted; and therefore ought to enjoy the Title and Eſtate of his Anceſtors Earls of <hi>Northumberland.</hi> Then the Defendants Coun<g ref="char:EOLhyphen"/>cel and the Court did own the Plaintiffs Title and Pedigree, but ſaid there was no Lands to ſupport the Title: then the Plaintiff prayed, that the Court would confirm what they owned by a Rule in Court; whereupon the Lord Chief Juſtice <hi>Scrogs</hi> ſtood up and ſaid, Confirm or not-confirm, the Declaration is naught, diſcharge <hi>Blakeſton</hi> from the Suit of <hi>Percy;</hi> notwithſtanding the vaſt Charge the Plaintiff had been put to, by the Defendants ſheltering under the <hi>ſenior</hi> Counteſs of <hi>Northumberlands</hi> Priviledges: And when the Duke of <hi>Monmouth</hi> had ſet aſide her Priviledges, then he ſhelter'd himſelf under the Lord of <hi>Eſſex</hi> his Priviledge. And when the Plaintiff had made his complaint to the Houſe of Lords, the Lord of <hi>Eſſex</hi> did agree with the Plaintiffs Coun<g ref="char:EOLhyphen"/>cel, that if Mr. <hi>Clerk</hi>'s Coſt was laid down in Court for his ſecurity, the Defen<g ref="char:EOLhyphen"/>dant Mr. <hi>Blakeston</hi> ſhould not ſtand upon Priviledge, but go on to Tryal: Then the Lord Chief Juſtice <hi>Scrogs</hi> ſtood up and ſaid, Mr. <hi>Percy,</hi> if you will lay down the 90 <abbr>
+                     <hi>l.</hi>
+                  </abbr> Mr. <hi>Clerk</hi>'s Coſt in Court, the Lord of <hi>Eſſex</hi> will not inſiſt upon Priviledge, and we do promiſe you ſhall have a fair Tryal: Whereupon the Money was tender'd accordingly, and the 90 <abbr>
+                     <hi>l.</hi>
+                  </abbr> was got out of Court be<g ref="char:EOLhyphen"/>fore he had notice by his Attorney Mr. <hi>Hancock,</hi> or before the Tryal was ended. And in truth the 90 <abbr>
+                     <hi>l.</hi>
+                  </abbr> the Opponents ought not to have had, by rea<g ref="char:EOLhyphen"/>ſon the 90 <abbr>
+                     <hi>l.</hi>
+                  </abbr> Coſt ought to have been ſet aſide upon their own Demurrer. Moreover it is to be noted, that Sir <hi>George Jeffreys</hi> was Councel for the
+<pb n="4" facs="tcp:48715:3"/>Plaintiff at the fore part of the Tryal, and had taken 40 <abbr>
+                     <hi>s.</hi>
+                  </abbr> a Retaining Fee, and 3 <abbr>
+                     <hi>l.</hi>
+                  </abbr> a Pleading Fee, and had the Petitioner's Breviate; but at the latter part of his Tryal, pleaded againſt the Petitioner, notwithſtanding the Plain<g ref="char:EOLhyphen"/>tiff tender'd him new Fees, and complained of him in Court. All which cauſed the Plaintiff to Appeal to the Parliament by two Writs of Error, to have the Errors argued, and his Title to be brought to an Iſſue, to be call'd to the Place and Seat of his Anceſtors, according to his Birthright.</p>
+               <p>That the Kings moſt Excellent Majeſty hath been graciouſly pleaſed to re<g ref="char:EOLhyphen"/>ferr your Petitioner to the Lords in Parliament, to hear and determine his ſaid Cauſe; and to that purpoſe, he hath been at vaſt Charges in renewing his two Writs of Error, after every Prorogation; and his Attorney hath re<g ref="char:EOLhyphen"/>ceived 60 <abbr>
+                     <hi>l.</hi>
+                  </abbr> only for the Kings hand, beſides all other Charges which far ex<g ref="char:EOLhyphen"/>ceeded. And his ſaid Attorney did promiſe your Petitioner, to get all his Breviates in a readineſs againſt the Tryal, but did altogether fail, as the printed Petition hereunto annexed makes appear. Moreover he told your Petitioner ſometime before, that he could have had <hi>a hundred Goineys</hi> to be<g ref="char:EOLhyphen"/>tray your Petitioner; and ſome other of your Petitioners Councel have been tempted with Bribes, but they were ſo Juſt as to refuſe.</p>
+               <p>And now the Agents have ſurprized your Petitioner, for they knew the Error muſt have been proved againſt the Plaintiff Mr. <hi>Blakeſton;</hi> ſo that they would not take their Coſt for that days diſappointment, according to the prayer of the printed Petition, but have obtained the Writ of Error to be diſmiſt the Lords Houſe, without any fair Hearing: ſo that all they have done, and do, is by way of ſurprizal, to tire the Claimant out of his juſt Right.</p>
+               <p>He therefore moſt humbly beſeeches the Honourable Houſe of Commons, as he is yet but a Commoner, that for the Glory of God, the Honour of our King and Kingdom, to ſtand up for Justice, ſo that Property and Right may be preſerved, and the Oppreſſed may be relieved, for this is the <hi>11<hi rend="sup">th.</hi>
+                  </hi> year of your Petitioners Claim: And intercede with the Kings moſt Excellent Majesty, and the Right Honourable Lords Spiritual and Temporal, not to ſuffer a Loyal Subject to be over-powered, but that his juſt Claim may be heard with patience, and determined in Juſtice; and that your Peti<g ref="char:EOLhyphen"/>tioners Bill may be made an Act, to reſtore the true Heir to his Birth<g ref="char:EOLhyphen"/>right, and that the Title and the Estate that is now diſperſed into ſeveral hands, may be forthwith ſettled by an Act of Parliament.</p>
+               <closer>
+                  <signed>And he ſhall ever pray.</signed>
+               </closer>
+               <postscript>
+                  <p>Near 300 <abbr>
+                        <hi>l.</hi>
+                     </abbr> the two Writs of Error have coſt, for putting into Parliament, continuing and renewing after every Prorogation, and now they have Execu<g ref="char:EOLhyphen"/>tion upon <hi>Blakeſton</hi>'s Writ of Error, before the Caſe is heard.</p>
+                  <p>The Attorney-General ſaid, Mr. <hi>Percy, Now you have no where to Appeal but to Heaven:</hi> But if Juſtice be not done on Earth, we may fear Gods Vengeance will come from Heaven: Therefore the Petitioner is forc'd to Appeal to thoſe Worthies in the Houſe of Commons for Juſtice, and therefore he hath annexed the printed Petitions.</p>
+               </postscript>
+            </div>
+            <div type="petition">
+               <pb n="5" facs="tcp:48715:3"/>
+               <head>To the KINGS moſt Excellent Majeſty; And to the Right Honourable Lords Spiritual and Temporal in PARLIAMENT Aſſembled.</head>
+               <head type="sub">The Humble Petition of <hi>JAMES PERCY.</hi>
+               </head>
+               <opener>SHEWETH,</opener>
+               <p>THat after your Petitioner's Complaint againſt his Attorneys, <hi>James Hooton, Edward Fyfield,</hi> and <hi>John Hancock;</hi> Mr. <hi>James Hooton,</hi> one of your Peti<g ref="char:EOLhyphen"/>tioner's Attorneys, underſtanding the Complaints againſt him, ſent the Writings by his Man, which came too late; out of which Papers his Breviates ought to have been drawn, which doth teſtifie the Truth of your Petitioner's Com<g ref="char:EOLhyphen"/>plaint, and what he offered to confirm upon Oath before your Lordſhips.</p>
+               <p>Therefore your Petitioner moſt Humbly prays, That the two Writs of Error may be continued between <hi>Percy</hi> Plaintiff, and <hi>Blakeſton</hi> Defendant, and <hi>Utting</hi> Plaintiff, and <hi>Coppleſton</hi> Defendant; and that his Councel that he hath Retained formerly, may be allowed your Petitioner to argue the ſaid Cauſe: that is to ſay, Sir <hi>William Jones,</hi> Serjeant <hi>Pemberton,</hi> and Serjeant <hi>Simpſon,</hi> and that a new day may be ordered now his Witneſſes are in Town, and deſires no longer time then his Councel may well conſider: And further prays, That a moderate Coſts may be tax'd, upon account of the Attorneys Negligence.</p>
+               <closer>
+                  <signed>
+                     <hi>And your Petitioner ſhall ever pray,</hi> &amp;c. <hi>JAMES PERCY.</hi>
+                  </signed>
+               </closer>
+               <postscript>
+                  <p>It is hoped, that the Neglect of the Attorneys ſhall not deſtroy a man's Birth-right, Title and Inheritance.</p>
+                  <p>Your Petitioner's Cauſe being before your Lordſhips to hear and determine, therefore humbly prays, that a new day may be Ordered, before his Witneſſes be diſperſed.</p>
+               </postscript>
+            </div>
+            <div type="petition">
+               <pb n="6" facs="tcp:48715:4"/>
+               <head>To the KINGS moſt Excellent Majeſty, in PARLIAMENT.</head>
+               <head type="sub">The Humble Petition of <hi>JAMES PERCY.</hi>
+               </head>
+               <opener>SHEWETH,</opener>
+               <p>THat this annexed Petition, fairly writ, was preſented at the Bar of the Lords Houſe the 10<hi rend="sup">th.</hi> Inſtant.</p>
+               <p>That your Petitioner is at a vaſt Charge in keeping his Witneſſes in Town, waiting for an Order, and a Day appointed, according to the prayer of the ſaid Petition.</p>
+               <p>He therefore prays, That your Majeſty would be graciouſly pleaſed to call for the ſaid Petition, and cauſe it to be Read; and that a ſhort day may be appointed, that a fair Hearing may be had, to find out the Truth, and that Juſtice may be done accordingly: And let it not be ſaid in <hi>England,</hi> that the Innocent are puniſhed, and the Guilty go free: But call to mind how merciful God hath been, in Reſtrring your Majeſty; Even ſo in pity Reſtore your poor diſtreſſed Subject.</p>
+               <closer>
+                  <signed>
+                     <hi>And he ſhall ever pray,</hi> &amp;c. <hi>JAMES PERCY.</hi>
+                  </signed>
+               </closer>
+               <postscript>
+                  <p>This Petition was preſented into his Majeſties Sacred Hand, the 15<hi rend="sup">th.</hi> of <hi>December</hi> 1680.</p>
+                  <p>To loſe ſuch an Opportunity as offered on <hi>Thurſday</hi> laſt, and now to trouble ſo good a King ſo oft, doubles your Petitioner's ſorrows.</p>
+                  <p>And that which adds to your Petitioner's miſery, is, that he cannot diſpoſe of his Witneſſes, till a poſitive Order be had; for which he humbly prays.</p>
+               </postscript>
+            </div>
+            <div type="list_of_precedents">
+               <head>Note theſe three following Preſidents.</head>
+               <p n="1">1. THe Lord of <hi>Newport</hi> begg'd the <hi>Percies</hi> Land of the King, for the Duke of <hi>Monmouth,</hi> when the Duke was in <hi>France:</hi> but at the Duke's return, <hi>Percy</hi> the Claimant waited upon the Duke, to know his pleaſure; and told him, That my Solicitor had betrayed me, for the <hi>Percies</hi> Lands were begg'd without the Claimant's conſent or knowledge. Then the Duke replied, <hi>Mr.</hi> Percy, <hi>you ſhall have a fair Tryal at Law:</hi> And moreover he did promiſe he would not ſtand upon Priviledge: but when <hi>Percy</hi> was ready for a Tryal, then Trumpt up Priviledge. And Mr. <hi>Roſs</hi> the Duke's Agent ſaid, the Duke could not ſet aſide his Priviledge: But the Duke ſaid, if <hi>Percy</hi> proves himſelf Heir, I have no Right; and forthwith ſold his Intereſt for an inconſiderable Sum of Money.</p>
+               <p n="2">
+                  <pb n="7" facs="tcp:48715:4"/>
+II. The Lord <hi>Ogle,</hi> that married the Lady <hi>Elizabeth Percy,</hi> would have aſſu<g ref="char:EOLhyphen"/>med the name of <hi>Percy;</hi> and put in a Bill to be made an Act to ſettle the Lands upon him by Act of Parliament.</p>
+               <p n="3">III. And it is reported that the Lord of <hi>Eſſex</hi> deſired that ſome of thoſe Lands might be ſettled upon him by Act of Parliament.</p>
+               <p>By this account the Lands are yet unſettled: <hi>Ergo</hi> then great reaſon it is, that the true Heir-Male of the <hi>Percies</hi> Bill ſhould be made an Act of Parlia<g ref="char:EOLhyphen"/>ment, to ſettle the Name, Title and Eſtate together again, according to the firſt ſettlement confirmed by his Anceſtors.</p>
+               <p>Now your poor diſtreſſed and oppreſſed Petitioner humbly and freely offers, for the obtaining of Juſtice, and for the full ſatisfaction to the Kings moſt Excellent Majeſty, and the Right Honourable Lords Spiritual and Tem<g ref="char:EOLhyphen"/>poral, and thoſe Honourable and Worthy Members of the Houſe of Commons in Parliament aſſembled, (if it be required and thought convenient, he being very unwilling to offer any thing that might give the leaſt offence, but rather ſubmit to their grave and mature Wiſdoms) theſe Propoſals following.</p>
+               <p>
+                  <hi>James Percy</hi> the Claimant and Plaintiff, will pay into the hands of any Tru<g ref="char:EOLhyphen"/>ſtees that ſhall be appointed to receive the Money in Truſt for Mr. <hi>John Blake<g ref="char:EOLhyphen"/>ſton</hi>'s Coſts, provided he likewiſe lay down the 90 <abbr>
+                     <hi>l.</hi>
+                  </abbr> taken by ſurprize out of Court before the Tryal was ended.</p>
+               <p>And Mr. <hi>
+                     <g ref="char:V">Ʋ</g>tting</hi>'s Coſt likewiſe ſhall be paid, for what Sir <hi>John Coppleſton</hi> claims; provided likewiſe that Sir <hi>John Coppleston</hi> pay the 10 <abbr>
+                     <hi>l.</hi>
+                  </abbr> down, which he got when he ventured the Breach of Priviledge of Parliament: provided the whole Merits of the Cauſe may have a fair Hearing and Determination be<g ref="char:EOLhyphen"/>fore the Lords: And if the Plaintiff and Claimant <hi>James Percy,</hi> doth not prove himſelf to be the right true and next Heir-Male in Bloud of the <hi>Percies</hi> of <hi>Nor<g ref="char:EOLhyphen"/>thumberland,</hi> then let them take all the Money, and the Plaintiff will freely ac<g ref="char:EOLhyphen"/>quit his Claim for ever, and remain till death a Loyal Subiect, and <hi>James Percy.</hi>
+               </p>
+               <p>Although his Witneſſes be diſpers'd, a Weeks time will bring them to Town again, upon the ſight of an Order.</p>
+               <p>For the Claimant <hi>James Percy</hi> (by Birth) ought to enjoy the Place, Seat and Priviledge of his Anceſtors, Earls of <hi>Northumberland;</hi> but now he dares not appear, till an Order be had.</p>
+               <p>Therefore he moſt humbly prays, That a fair Hearing may be had, and that a true deciſion of his juſt Cauſe and Claim may be made, according to Juſtice: ſo that the Innocent may be preſerved, and that the fraudulent practices not juſt may march off with ſhame: For Heroick Actions glorifies God, Honours the King, and makes all the people ſhout for joy.</p>
+               <p>God hath been pleaſed to make a true deciſion himſelf, which may be a preſident; for he ſent the Claimant from his Mothers Womb with a Creſcent into the World, which is Gods Enſign of Truth, and the very Badge belonging to the <hi>Percies</hi> Earls of <hi>Northumberland.</hi> In witneſs to this Truth, I have ſet to my Hand and Seal, this 3d. of <hi>January,</hi> 1680/1.</p>
+               <closer>
+                  <signed>JAMES PERCY.</signed>
+               </closer>
+            </div>
+            <div type="petition">
+               <pb n="8" facs="tcp:48715:5"/>
+               <head>To the KINGS moſt Excellent Majeſty, <hi>The Humble Petition of</hi> JAMES PERCY.</head>
+               <opener>SHEWETH,</opener>
+               <p>THat it is a great grief to your Petitioner's Soul, to trouble your Sacred Majeſty ſo often, in looking after his Juſt Right; yet cannot help it by reaſon his Opponents are of ſo great Power, Po<g ref="char:EOLhyphen"/>licy and Force.</p>
+               <p>That notwithſtanding his Petition to the Right Honourable Houſe of Lords, preſented the day after his Hearing ſhould have been had, the Opponents got that Writ of Error diſmiſs'd the Houſe, well knowing the Errors would have been confirmed againſt them.</p>
+               <p>That thereby they have an opportunity to take out Execution againſt your Petitioner, and ſo to ſtop his further publick appearing.</p>
+               <p>That if that Writ be not recall'd into the Lords Houſe again, your Petitioner can in no wiſe expect a fair Hearing, nor a juſt de<g ref="char:EOLhyphen"/>ciſion of his Cauſe.</p>
+               <p>Therefore your oppreſſed Petitioner most humbly prays, That your Majeſty would be graciouſly pleaſed to ſee Justice done herein, and that a new Day may be appointed, according to the Prayer of that Petition that is now before the Houſe of Lords; or that your Sacred Majeſty will be graciouſly pleaſed to call your Loyal Subject, by your Royal Writ of Summons, to take the Place and Seat of his Ancestors, Earls of <hi>Northumberland,</hi> he having proved his legitimate Deſcent and Pedigree at ſeveral Tryals at Law.</p>
+               <closer/>
+               <postscript>
+                  <p>
+                     <hi>This Petition was preſented into his Sacred Majeſties hand</hi> Jan. <hi>3. 1681.</hi>
+                  </p>
+                  <p>All great and dubious matters the Children of <hi>Iſrael</hi> preſented and laid open before <hi>Moſes:</hi> Even ſo the Claimant hath done to his Majeſty all along, knowing that in the King ſolely lyes the creation and preſervation of Honour and Nobility.</p>
+                  <p>But the King referred the Cauſe to the Lords to hear and determine; and now the two Writs of Error are diſmiſs'd the Lords Houſe, without hearing the ſaid Cauſe.</p>
+                  <p>Now the Claimant <hi>James Percy</hi> finding himſelf over-powered, is forc'd to Appeal, and humbly prays for Juſtice: As Prerogative belongs to the King, ſo Property and Right belongs to his People.</p>
+               </postscript>
+               <trailer>FINIS.</trailer>
+            </div>
+            <div type="petition">
+               <pb facs="tcp:48715:5"/>
+               <head>To the KING'S Moſt Excellent Majeſty; <hi>The Humble Petition of</hi> JAMES PERCY.</head>
+               <opener>SHEWETH,</opener>
+               <p>THat Your Petitioner moſt Humbly Beſeecheth, and Earneſtly Prayeth Your Majeſties Pardon, for that Omiſſion on the Ninth of <hi>December</hi> laſt, which was in truth altogether the Neglect of his <hi>Attorny,</hi> as his Printed Petition ſets forth.</p>
+               <p>That Your Petitioner Humbly preſents theſe two Books, that your Moſt Excellent Majeſty may ſee the real endeavours of Your Petitioner; and the firſt Book was Prepared for the Right Honourable Lords Spiritual and Temporal, to inform their Lordſhips: And the ſecond Book is prepared to make his Complaints known to the Houſe of Com<g ref="char:EOLhyphen"/>mons; ſo that They may Intercede in his Juſt Cauſe with Your Royal Majeſty, and the Right Honourable Lords in Parliament.</p>
+               <p>Therefore Your Majeſties Loyal Subject and Petitioner moſt Humbly Prays, That Your Royal Majeſty will be Graciouſly pleaſed, Patiently to Read, and Seriouſly conſider the Printed Complaints, and do Your Poor diſtreſſed Petitioner Juſtice, in reſtoring him by Your own Princely Power, Prerogative, and Clemency: He having at Law, fully proved his Pedigree: And therefore hath prepared a Bill, that it may be made an Act of Parliament, and moſt Humbly Prays Your Majeſties Royal Aſſent thereunto. And that Your Majeſties Royal Writ of Summons may forthwith call Your Loyal Subject, from the Houſe of Priſon, to the Houſe of Peers: And there to take the Place and Seat of his Anceſtors, Earls of <hi>Nor<g ref="char:EOLhyphen"/>thumberland.</hi>
+               </p>
+               <p>
+                  <hi>When King</hi> Pharao <hi>took</hi> Joſeph <hi>out of the</hi> Dungion, <hi>Then God fil'd</hi> Pharao's <hi>Barns with his Bleſſings. To which God Annex long Life, and a Proſperous Reign.</hi>
+               </p>
+               <closer>
+                  <signed>And Your Petitioner ſhall Pray, JAMES PERCY.</signed>
+               </closer>
+               <postscript>
+                  <p>This Petition was preſented into his Sacred Majeſties Hand <hi>Jan.</hi> the 17th. 1681. And did indeavour to preſent the two Books mentioned in the Petition; But a Gentleman ſtepping betwixt the King and my ſelf, puſht me away; ſo that I could not Preſent the Complaint prepared for the Houſe of Lords, againſt the day of Hearing: Nor this Complaint which is prepared for the Houſe of Commons, <hi>(my Opponants are great and Numerous,)</hi> which forces the Claimant to Pray for Juſtice.</p>
+               </postscript>
+            </div>
+            <div type="affidavit">
+               <pb facs="tcp:48715:6"/>
+               <head>An Affidavit made by <hi>JAMES PERCY,</hi> Claimant to the Earldom of <hi>NORTHUMBERLAND.</hi>
+               </head>
+               <p>WHereas Mr. <hi>James Hooton,</hi> did undertake the Carrying in two Writs of Error in Parliament, between <hi>James Percy</hi> Plain<g ref="char:EOLhyphen"/>tiff, and <hi>John Blackeſton,</hi> 
+                  <abbr>Eſq</abbr> Defendant, for Scandalous Words, and in Ejectments for Lands, <hi>Robert <g ref="char:V">Ʋ</g>tting</hi> Gent. Leſſee of the Plaintiff, and Sir <hi>John Copleſton</hi> Defendant; And the aforeſaid Mr. <hi>Hooton</hi> did receive Writings of <hi>Percy</hi> the Claimant long before the day of Hearing before the Lords; And did promiſe to fix all the Claimants Bre<g ref="char:EOLhyphen"/>viats, ſo as they might be ready for ſome Lords, and for the Council: But when the Claimant ſhould have been prepared for his Counſel, then Mr. <hi>Hooton</hi> could not be found till the very Morning the Hearing ſhould have been had; then he meeting the Deponent <hi>James Percy,</hi> at <hi>Fetter-lane-end</hi> in <hi>Fleet-street,</hi> and ſaid whither are you going? <hi>Percy</hi> told him, <hi>I am a going to make my Complaint againſt You, for keeping my Writings, and not making my Breviats ready for my Council:</hi> And when <hi>James Percy</hi> had made his com<g ref="char:EOLhyphen"/>plaint in <hi>Parliament,</hi> and offered to make Oath before their Lordſhips to Confirm the truth: And when the Lords Commanded to withdraw, then Mr. <hi>James Hootons Man</hi> came into the <hi>Lobby,</hi> and there delivered the Wri<g ref="char:EOLhyphen"/>tings to the Deponent, upon the 9th. of <hi>December</hi> 1678. Moreover the ſaid <hi>Hooton,</hi> ſaid ſome time before, that he was offered a Hundred <hi>Guin<g ref="char:EOLhyphen"/>neys</hi> to betray the ſaid Deponents Caſe.</p>
+               <p>And on the 7th. of <hi>January</hi> 1681. The ſaid <hi>Hooton</hi> came to the Deponants Chamber, and deſired to ſee thoſe Writings that belonged to thoſe Writs of Errors, and did Write ſomething out of them; ſaying, <hi>He had not kept a Copy of them, which he ought to have done;</hi> but ſaid <hi>He had enough now to do his buſineſs:</hi> and further ſaid, <hi>there was one ſheet wanting:</hi> Which ſhews how careful he was of his Claimants Cauſe; And yet threatens he will Sue the Claimant for Defaming him in his Practiſe.</p>
+               <closer>
+                  <signed>JAMES PERCY.</signed>
+                  <date>
+                     <hi>Jur'</hi> 18. <hi>die</hi> January 1680.</date>
+                  <signed>
+                     <hi>coram me Magistro Canc'</hi> John Hoskyns. </signed>
+               </closer>
+               <postscript>
+                  <p>
+                     <hi>The Deponant Humbly Prays for ſpeedy Juſtice, and that he may be forth<g ref="char:EOLhyphen"/>with called from the Priſon of</hi> Kings-Bench, <hi>into Parliament, to take the Place of his Anceſtors, Earls of</hi> Northumberland, <hi>according to his Birth<g ref="char:EOLhyphen"/>right, and that the two Writs of Error, may be Re-manded back, and the Exe<g ref="char:EOLhyphen"/>cution ſtopt. For his Witneſſes continue ſtill in Town: Hoping by your Mature Wiſdoms, to obtain an Order for a new day of Hearing; for which he Prays, as by his Petition all along appears.</hi>
+                  </p>
+               </postscript>
+            </div>
+            <div type="affidavit">
+               <pb facs="tcp:48715:6"/>
+               <head>An <hi>Affidavit</hi> made by <hi>JAMES PERCY</hi> Claimant to the Earldom of <hi>NORTHUMBERLAND.</hi>
+               </head>
+               <p>WHereas <hi>Adlard Welby</hi> Gent. is Attourny for <hi>John Blackſton</hi> 
+                  <abbr>Eſq</abbr> 
+                  <hi>Def.</hi> this Deponent <hi>James Percy</hi> on the 21 <hi>h.</hi> inſtant, went to <hi>Mr. Welby,</hi> and offer'd an Agreement: And whereas Coſt of 70 odd <abbr>
+                     <hi>l.</hi>
+                  </abbr> is demanded of me the Plaintif, the Deponent demanded 90 <abbr>
+                     <hi>l.</hi>
+                  </abbr> which was but tendred into Court upon my Lord Chief Juſtice <hi>Scrogs</hi>'s promiſe that the Lord of <hi>Eſſex</hi> would not inſiſt upon Priviledge, and that the De<g ref="char:EOLhyphen"/>ponent JAMES PERCY ſhould have a fair Tryal: the Money was not intended for the L. of <hi>Eſſex</hi> really, but it ought to have been reman<g ref="char:EOLhyphen"/>ded back again to the Plaintiff JAMES PERCY; for that 90 <abbr>
+                     <hi>l.</hi>
+                  </abbr> coſts pretended for <hi>Mr. Clark,</hi> was Sued for by Capt. <hi>Biggerſtaff</hi> that mar<g ref="char:EOLhyphen"/>ried the Relict of <hi>Mr. Clark;</hi> And that 90 <abbr>
+                     <hi>l.</hi>
+                  </abbr> Coſts ought to have been ſet aſide upon their own Demurrer; therefore <hi>Mr. Welby</hi> Reply'd, I muſt complain in Court: The <hi>Writs of Error</hi> ought to have been heard, debated, and determined by the Right Honourable <hi>Lords</hi> in <hi>Parliament;</hi> But it was blown over, as by the Printed Complaint, (prepared to preſent to the Honourable Houſe of Commons appears) But it is hoped the Writs of Error may be Re-manded back into Par<g ref="char:EOLhyphen"/>liament, to have a fair Hearing: Or if the Plaintiff and Deponent be forced to pay the 70 odd Pounds Coſt; then the 90 <abbr>
+                     <hi>l.</hi>
+                  </abbr> ought to be Refunded to the Deponent,</p>
+               <closer>
+                  <signed>JAMES PERCY.</signed>
+                  <date>
+                     <hi>Jurat.</hi> 22. die <hi>Jan.</hi> 1680.</date>
+                  <signed>John Hoskins.</signed>
+               </closer>
+            </div>
+            <div type="commentary">
+               <p>IT is very hard for a man to be kept out of Poſſeſſion, and his Opponents mannage all their Suits at <hi>Law</hi> againſt him with his own Eſtate; and that will not ſerve their turns, but they covet to get from the Claimant by Fraud, ſo that they may totally Ruine and diſable him from proſecuting his Birth-right.</p>
+               <p>JAMES PERCY, (the true and lawful Heir-male to the <hi>Percy's</hi> Earls of <hi>Northumberland,</hi>) hath found more <hi>Injuſtice</hi> and <hi>Hardſhips</hi> here in <hi>England,</hi> than the Children of <hi>Iſrael</hi> found in <hi>Egypt,</hi> when they made Brick, and were forc'd to gather their own Straw to burn them.</p>
+               <p>When <hi>Joſeph's</hi> good Works were forgot, then his Brethren ſuffer'd; But now the PERCY'S good deeds are forgot, their lawful Succeſ<g ref="char:EOLhyphen"/>ſor ſuffers in Priſon; And therefore earneſtly prays for a ſpeedy De<g ref="char:EOLhyphen"/>liverance. My great Pains, and Charge in Printing, is really inten<g ref="char:EOLhyphen"/>ded rightly to inform the world, thereby to remove Oppreſſion, and to revive juſtice.</p>
+            </div>
+            <div type="petition">
+               <pb facs="tcp:48715:7"/>
+               <head>To the Kings Moſt Excellent Majeſty.</head>
+               <head type="sub">The Humble Petition of <hi>JAMES PERCY.</hi>
+               </head>
+               <opener>Sheweth,</opener>
+               <p>THat Your Petitioners Opponents have obtain'd their Deſires, for your Petitioner is in Priſon</p>
+               <p>That Your Majeſty was Graciouſly pleaſed to ſay, <hi>God forbid that We ſhould hinder an Heir, but that he ſhould have the Benefit of the Law;</hi> And to that end Sir <hi>John Berkenhead</hi> was ſent by Your Majeſty to the Attourny General.</p>
+               <p>That Your Petitioner hath proved his Legitimacy and Pedegree, at four ſe<g ref="char:EOLhyphen"/>veral Tryals at Law, whereof one is exemplified under the Great Seal of Your Majeſties Court of <hi>Kings-Bench,</hi> (where Your Petitioner is now a Priſoner) upon that Writ of Error the Lord Chief Juſtice <hi>Scroggs</hi> ſo wilfully gave the Cauſe away, after Your Petitioner had fully proved his Pedegree, and to be Deſcended from the Body of <hi>Henry Percy,</hi> fifth Earl of <hi>Northumberland,</hi> and Couſin and next Heir-Male to <hi>Joſceline Percy,</hi> late and eleventh Earl, deceaſed.</p>
+               <p>Therefore He moſt Humbly Prays that Your Moſt Excellent Majeſty would be Graciouſly pleaſed to Order the <hi>Lord Chancellour</hi> forthwith to call (by Your Majeſties Royal Writ of Summons) Your Petitioner from the <hi>Houſe of Priſon,</hi> to the <hi>Houſe of Peers,</hi> to take the Place and Seat of his Anceſtors Earls of <hi>Nor<g ref="char:EOLhyphen"/>thumberland,</hi> as it is his Birth-right and Title proved at Law: God in his Justice and Mercy reſtor'd Your Majeſty to Your Crown and Kingdoms; even, ſo let Your Majeſty in Equity and Pity Reſtore Your poor Diſtreſſed Subject.</p>
+               <closer>
+                  <signed>
+                     <hi>And Your Petitioner ſhall ever Pray,</hi> &amp;c. <hi>JAMES PERCY.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="petition">
+               <p>THis Petition was offer'd to His Majeſty the 24th. of <hi>January</hi> 1680/1. and His Majeſty was pleas'd to ſay, <hi>He would not receive it;</hi> But ſaid, <hi>You may go where You pleaſe;</hi> Which Saying was taken for an Anſwer to that Petition pre<g ref="char:EOLhyphen"/>ſented the 17 of <hi>January;</hi> Wherein it was to be underſtood, the Petitioner had prepared his Complaints for the Houſe of Commons. <hi>(It is to be noted,)</hi> That the Gentlemen who attended the King, ſaid, <hi>Yonder is the E. of</hi> Northumberland <hi>with a Petition; why ſhould Your Majeſty trouble Your ſelf with it? had You not one the other day? reject it.</hi> I have found His Moſt Excellent Majeſty hath been in<g ref="char:EOLhyphen"/>clinable to Juſtice all along, but ſtill is obſtructed by one means or other: But the plain Truth is, His Majeſty would not be ſeen to give and ungive at his own pleaſure, His Majeſty being miſtaken in his Guilts; Therefore was Graci<g ref="char:EOLhyphen"/>ouſly pleaſed the Lords ſhould Hear and Determine the ſaid Cauſe; And to that purpoſe, did come down to the Bar in the Houſe of Lords to hear the Cauſe Himſelf; but was diſappointed, (as by the <hi>Petitions</hi> and <hi>Affiidavits</hi> appear:) But the ſaid Cauſe having been continued a long time at ſuch a vaſt Charge; and then to be ſlightly blown over without a fair Hearing, all the World much admires; For the clearing up of the Pedigree, would have confirm'd the <hi>Errors.</hi>
+               </p>
+               <p>Therefore Your Petitioner Appeals to the Honourable Houſe of Commons; And most Humbly and Earnestly prays your Aſſiſtance, to enquire the Reaſon why, and how the <hi>Writts of Errors</hi> came to be diſmiſt; And that they may be Re-manded back, that a fair Hear<g ref="char:EOLhyphen"/>ing may be had according to the Prayer of the Petitions; Or that You will be pleaſed to cauſe the Heralds to enquire into the Truth of the Claimants Pedigree; And that He may be call'd from the <hi>Kings Bench</hi> Priſon, to the Houſe of Peers, to take the Place and Seat of his Anceſtors, Earls of <hi>Northumberland.</hi>
+               </p>
+               <closer>
+                  <signed>
+                     <hi>And Your Petitioner ſhall ever Pray,</hi> &amp;c. JAMES PERCY.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb facs="tcp:48715:7"/>
+               <opener>
+                  <salute>Right Honourable,</salute>
+               </opener>
+               <p>I Am your Couſin, (though a Priſoner) deſcended from the Body of <hi>Henry Percy</hi> 5th. Earl of <hi>Northumberland;</hi> By which Deſcent I am Couſin and next Heir-male to <hi>Joſceline Percy</hi> your Father the late and 11th. Earl of <hi>Northumber<g ref="char:EOLhyphen"/>land,</hi> Deceaſed. A Priſon is a Grave for Men alive; But when <hi>Naboth</hi> was ſton'd to death, then <hi>Ahab</hi> took poſſeſſion of the Vinyard, 1 <hi>Kings.</hi> 21.18. <hi>And walk<g ref="char:EOLhyphen"/>ing in the Garden among the Beds of Pleaſure, then God ſent his Prophet</hi> Elias, <hi>to tell</hi> Ahab <hi>of his Tranſgreſſion,</hi> (notwithſtanding he was a King.) Ezekiel 46.18. <hi>When</hi> Belſhazzar <hi>was quaffing in the Gold and Silver Veſſels of the Temple, then ap<g ref="char:EOLhyphen"/>pear'd the Hand-writing upon the Wall,</hi> Dan. 5. When your late Husband the Lord <hi>Ogle</hi> went about to aſſume the name of <hi>Percy,</hi> and to have the <hi>Percies</hi> Lands ſettled upon him by Act of <hi>Parliament,</hi> then God call'd him to Accompt; Therefore let Your Ladiſhip do Juſtice ſpeedily, and ſubmit to Truth in Time, for fear God calls You to Accompt alſo. I believe Your Servants and Agents have rendred Me to You to be a Monſter, and not a Man; Be not too ſubject to Believe Them, but ſee with your own Eys, and hear with your own Ears; and admit Me into Your preſence, for I have ſomthing to offer that will add Fame to Your Honour, and Rank You with thoſe Two Worthy Women of our Family, the Lady <hi>Agnes Percy,</hi> who preſerved the <hi>Percies</hi> Name, and the Lady <hi>Lucy,</hi> that ſettled her Eſtate upon the Heirs Males of the <hi>Percies</hi> for ever; And for ever that Eſtate muſt attend the Title; And the Fines can never be recover'd but by the true Heir-Male of the <hi>Percies</hi> Mr. <hi>Gee</hi> can inform You (if he pleaſes,) how I was at <hi>Petworth</hi> in the Year 1654. And then, and there made my Claim as I do now; And before Mr. <hi>Clark</hi>'s Tryal, Your Agents, with their Councel, would have own'd Me to be the next Heir, and would have aſſiſted Me for the Title with their Books, Pedigree and Records: And alſo how I met with Mr. <hi>Champian</hi> and Mr. <hi>Gee</hi> at Doctor <hi>Lampley's</hi> Houſe, and there made out my Pedigree clear, only I could not find out my Great Grand-fathers Name; Firſt, it was a very hard Name; And Secondly, Mr. <hi>Champian</hi> kept it ſecret till he was forc'd to declare upon his Oath, that Sir <hi>Ingelram Percy</hi> was Married, and had Sons and Daughters, at Sir <hi>John Coppleſton</hi>'s Tryal for <hi>Cannington</hi> and <hi>Rodaway</hi> Lands in <hi>Somerſetſhire.</hi> Thirdly, The <hi>Heralds</hi> had altogether neglected the Collateral Line of the <hi>Percies.</hi> Now all my Aim is really to beget a right underſtanding, ſo that I may remain,</p>
+               <closer>
+                  <signed>Your Ladiſhips Real, Cordial, and Faithful Kinſman, and moſt Humble Servant, <hi>JAMES PERCY.</hi>
+                  </signed>
+               </closer>
+               <postscript>
+                  <p>
+                     <hi>What I have to declare to your Ladyſhip is not convenient to be committed to writing, but aſsure your ſelf it really tends to your preſent Welfare, and future Peace and Proſperity.</hi>
+                  </p>
+                  <p>
+                     <hi>An Anſwer will find me in the</hi> Kings-Bench-Rules, <hi>at the Written Table at Captain</hi> Dan<g ref="char:EOLhyphen"/>cer<hi>'s Houſe in</hi> Lombard-ſtreet, <hi>near the</hi> Bowling-green, <hi>in the Borough of</hi> Southwark.</p>
+               </postscript>
+            </div>
+            <div type="commentary">
+               <p>This Letter was preſented the day of the date hereof; and the Claymant hath printed it, that the world may ſee that a true <hi>Percy</hi> is not aſhamed of his Innocent and Juſt Cauſe, nor affraid of his Potent Opponents; <hi>For be whom I truſt in, is greater than they,</hi> 5 Eccleſ. ver. 8.</p>
+               <p>NOw in theſe our days there is no Prophet <hi>Gad, Michaia, Elijah,</hi> nor Interpreters ☞ of Dreams, like <hi>Joſeph</hi> and <hi>Daniel,</hi> that dares preſume to ſpeak to Kings as they did in thoſe days.</p>
+               <p>Therefore <hi>James Percy,</hi> the true Heir male of the <hi>Percies,</hi> Earls of <hi>Northumberland,</hi> humbly makes hold with the Prophet <hi>Ezekiel,</hi> cap. 46. ver. 18. <hi>Moreover the Prince ſhall not take of the Peoples Inheritance by oppreſſion, but he ſhall give his Sons Inheritance out of his own Poſſeſſion, that my People be not ſcattered every man from his Poſſeſſion.</hi>
+               </p>
+               <p>
+                  <pb facs="tcp:48715:8" rendition="simple:additions"/>
+The King's Moſt Excellent Majeſtie's Gracious Anſwer was to the Claimant's firſt Peti<g ref="char:EOLhyphen"/>tion, in 1670. <hi>God forbid that we ſhould hinder an Heir, but that he ſhould have the Benefit of the Law:</hi> And to that purpoſe His Majeſty ordered Sir <hi>John Berkenhead</hi> (Maſter of Requeſts then in waiting<g ref="char:punc">▪</g> to go to the Attorney General, to know why he refuſed to ſign the Co-war<g ref="char:EOLhyphen"/>rant which the Claymants Sollicitor, Mr. <hi>Thomas Swain</hi> preſented to him to ſign? But the Attorney General ſaid, <hi>He could not ſign</hi> Percie<hi>'s Co-warrant, by reaſon that he was of Council for the Counteſs of</hi> Northumberland: And the Court of Wards being put down did much wil<g ref="char:EOLhyphen"/>dernize the Claimant in his Proceedings; and no leſs than nine ſeveral Perſons have ſtood up<g ref="char:EOLhyphen"/>on and been ſhelter'd under Priviledge, which hath been the cauſe of delay all this time.</p>
+               <p>And from that time Mr. <hi>Swayn</hi> (the Claymant's Sollicitor) began to play the Devil with two ſticks; for whilſt <hi>James Percy</hi> was proſecuting the Law, and delivering Declarations in Ejectments in the North, the Sollicitor had contriv'd the buſineſs ſo, as the Title and Lands were begg'd, diſpos'd and ſcatter'd before the Claymant returned, and then pretended the Co-warrant, with other Writings, was loſt, which coſt a conſiderable Sum of Money, and then arreſted<g ref="char:punc">▪</g> his Clyent <hi>James Percy</hi> in three ſeveral Suits at Law, which continued three years; But the Sollicitor <hi>Swayn</hi> was overthrown in all the 3 Actions; moreover the Claymant <hi>James Percy</hi> was in thoſe travels poiſoned at <hi>New-Caſtle,</hi> arreſted at <hi>York</hi> in two Actions of 20000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> each Action, and then durſt not proceed at Law, but let the Actions fall, and paid 40 <abbr>
+                     <hi>s.</hi>
+                  </abbr> Coſt, a poor ſatisfaction for a night and two days Impriſonment, and maintaining my two Men and three Horſes, beſides the Charge of ſpunging Bums; And the actions were in the Lord of <hi>Eſſex,</hi> and Mr. <hi>Clark,</hi> and others Names: And to fill up the meaſure of malice, they publiſhed in the <hi>Engliſh Gazette,</hi> and the <hi>French Gazette, That the Claymant was an Im<g ref="char:EOLhyphen"/>poſtor;</hi> And Mr. <hi>Blackſton</hi> ſaid in all theſe Courts, <hi>That the Claymant's Name was not</hi> Percy, but declared him to be a Baſtard; with many more ſcandalous wordr, which were proved at that Tryal before the Lord Chief Juſtice <hi>Scroggs,</hi> notwithſtanding he diſcharged Mr. <hi>Black<g ref="char:EOLhyphen"/>ſton</hi> and Sir <hi>George Jeffreys</hi> at that Tryal, took Fees on both ſides, ſo the Claymant <hi>James Percy</hi> was clearly bought and ſold, and proved to his Damage 12000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> Beſides, it was the occaſion of this his preſent Impriſonment, upon the Writs of Error that were ſo ſtrangely diſ<g ref="char:EOLhyphen"/>miſs'd the Houſe of Lords without any Hearing; notwithſtanding the renewing and conti<g ref="char:EOLhyphen"/>nuing after every Prorogation, coſt in all above 300 <abbr>
+                     <hi>l.</hi>
+                  </abbr> And now the Claymant <hi>James Percy</hi> hath uſed all ways and means poſſible, (as by his Petition and publick Prints appears) and cannot proceed further without the Aſſiſtance of the Honourable; Houſe of Commons, His Majeſty is much troubled, and the Claymant really believes that His Majeſty had a cordial Deſire to hear and ſee the Cauſe determined, as by His coming up to the Bar of the Houſe of Lords, that day the Hearing ſhould have been had. Beſides, His Majeſty may perceive, I ſhall never leave my Claim, till Juſtice be done, by reaſon I now know it is my Right by Birth and Bloud, and that the ſole power of creating and preſerving Honour reſts in His Royal Breaſt, as Flowers in the Crown: And by the Coronation-Oath, the King cannot take Titles from one Peer, to give to another Peer. But as God hath in mercy reſtored His Majeſty to His Crown and Kingdoms, even ſo ought the King in Juſtice to reſtore every Loyal Subject to the Birth<g ref="char:punc">▪</g> right, Title and Inheritance of his Anceſtors. It was very hard at firſt for the Claymant to find out the Name of his great Grandfather, by reaſon he was in his Childhood brought up amongſt his Mothers Relations; And in the troubleſome times (he being a Roy<g ref="char:EOLhyphen"/>alliſt) was forced to abſcond and travel for many years, But the Adverſaries did wildernize the Claymant, in hiding his great Grandfathers Chriſtian Name from him: For Sir <hi>Ingelram Percy</hi> was the Glaymant <hi>James Percie</hi>'s Great Grandfather, and youngeſt Son of <hi>Henry Percy</hi> 5th. Earl of <hi>Northumberland;</hi> and this Collateral Line was never attain<g ref="char:EOLhyphen"/>ted; and therefore ought to be reſtored according to <hi>Henry Percy</hi> the 5th. Earls Patent, and not under the Patent of the New-Creation by Queen <hi>Mary</hi> for <hi>Thomas Percy,</hi> 2d. Son of the 5th. Earl, was attainted, but Sir <hi>Ingelram Percy</hi> 3d. Son was Innocent, and ſo hath his Iſſue con<g ref="char:EOLhyphen"/>tinued to this day: And therefore prays for ſpeedy Juſtice: Juſtice removes oppreſſion, Glori<g ref="char:EOLhyphen"/>fies God, Honours the King, Rejoyces the People, puts an end to your troubles, and ratifies Peace, for which the Petitioner prays.</p>
+               <closer>
+                  <signed>
+                     <hi>For</hi> Henry Percy, 5th. <hi>Earl, Great Great Grandfather, had Sir</hi> Ingelram Percy, <hi>Great Grandfather, who had</hi> Henry Percy <hi>Grandfather, and he had</hi> Henry Percy <hi>Father of the Claymant.</hi> JAMES PERCY.</signed>
+               </closer>
+               <pb facs="tcp:48715:8"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
